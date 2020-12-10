@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\katitu\Documents\GitHub\wordpress-nginx-docker\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\katitu\Documents\GitHub\wordpress-nginx-docker\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{71A9ECCB-1FD4-30F4-AC75-1702794EB2B1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

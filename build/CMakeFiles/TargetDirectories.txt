@@ -1,0 +1,9 @@
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/Experimental.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/Continuous.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/Nightly.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/cmake.txt.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/PACKAGE.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/katitu/Documents/GitHub/wordpress-nginx-docker/build/CMakeFiles/ZERO_CHECK.dir
